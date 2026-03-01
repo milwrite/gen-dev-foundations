@@ -7,6 +7,7 @@
 
 ## Backlog
 
+- [ ] Expand Windows gh CLI setup — verify install path, `gh auth login` flow on PowerShell, any Microsoft-specific steps
 - [ ] Slide 21 — Exit Ticket _(reflection prompts · to fill)_
 - [ ] Slide 22 — Next Steps _(to fill)_
 - [ ] Agenda href anchors — update slide numbers to match current order
