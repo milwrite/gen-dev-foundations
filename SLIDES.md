@@ -9,9 +9,8 @@ Companion to `index.html`. Keep this file in sync whenever slide titles or text 
 
 **Label:** CAIL Spotlight Workshop #1
 **Title:** Foundations: Coding with Generative AI
-**Orgs:** CUNY AI Lab · New Media Lab · Teaching and Learning Center · ASHP/CML · GC Digital Initiatives · Mina Rees Library · ITP
 **Date:** Spring 2026
-**Stage:** Infinite wheel artifact (`../gallery/chainwheel.html`)
+**Stage:** Infinite wheel artifact (`gallery/chainwheel.html`)
 
 ---
 
