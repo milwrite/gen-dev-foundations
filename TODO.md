@@ -7,11 +7,11 @@
 ## Backlog
 
 - [ ] Add commit step to git workflow — `git commit -m "add README.md"` _(include as a concrete example in the Initializing a Git Repo or Getting Started with GitHub slide)_
-- [ ] Slide 21 — Exit Ticket _(reflection prompts · to fill)_
-- [ ] Slide 22 — Next Steps _(to fill)_
+- [ ] Slide 21 (What's Next) — Next Steps _(to fill)_
 
 ## Done
 
+- [x] Remove slide 21 — Exit Ticket / "What's Your Next Move?" (deleted from deck and agenda)
 - [x] Agenda: replace "Demo" + "Inference…" + "Problematics…" with single "Demo and Framing" entry (→ #5)
 - [x] Agenda: fix "Initializing a Git Repo" link → `#14` (was `#16`)
 - [x] Agenda: add "Getting Started with GitHub" entry → `#15`
