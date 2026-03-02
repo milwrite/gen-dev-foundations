@@ -221,10 +221,10 @@ git status
 
 ---
 
-## Slide 16 — Committing Changes and Pushing to GitHub
+## Slide 16 — Staging, Committing, and Pushing to GitHub
 
 **Label:** Setup
-**Title:** Committing Changes and Pushing to GitHub
+**Title:** Staging, Committing, and Pushing to GitHub
 
 **Stage (step-grid, fragments):**
 1. Create a README file: `touch README.md`
