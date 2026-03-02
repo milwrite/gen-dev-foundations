@@ -227,8 +227,8 @@ git status
 **Title:** Creating a GitHub Repository
 
 **Stage (step-grid, fragments):**
-1. Create a project folder and move into it: `mkdir my-project && cd my-project`
-2. Initialize Git and create a first file: `git init && touch README.md`
+1. Create a README file: `touch README.md`
+2. Initialize Git: `git init`
 3. Stage, commit, and publish to GitHub: `git add . && git commit -m "first commit"` then `gh repo create my-project --public --source=. --push`
 4. Visit **github.com/your-username/my-project** to see it live
 
